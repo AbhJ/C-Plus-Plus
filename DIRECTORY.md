@@ -66,6 +66,7 @@
   * [Trie Modern](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/trie_modern.cpp)
   * [Trie Tree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/trie_tree.cpp)
   * [Trie Using Hashmap](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/trie_using_hashmap.cpp)
+  * [Two Stacks Sum](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/data_structures/two_stacks_sum.cpp)
 
 ## Divide And Conquer
   * [Karatsuba Algorithm For Fast Multiplication](https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/divide_and_conquer/karatsuba_algorithm_for_fast_multiplication.cpp)
